@@ -1,0 +1,1 @@
+from mymodulename.myimp import MyImp
